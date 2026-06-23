@@ -1,0 +1,5 @@
+127.0.0.1 - - [23/Jun/2026:21:56:14 ] "GET /dashboard HTTP/1.1" 200 23289 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36" 1.23ms
+127.0.0.1 - - [23/Jun/2026:21:56:15 ] "GET /favicon.ico HTTP/1.1" 200 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36" 0.17ms
+127.0.0.1 - - [23/Jun/2026:21:59:37 ] "GET /dashboard HTTP/1.1" 200 23289 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36" 0.31ms
+127.0.0.1 - - [23/Jun/2026:22:01:10 ] "GET /dashboard HTTP/1.1" 200 23289 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" 0.91ms
+127.0.0.1 - - [23/Jun/2026:22:01:11 ] "GET /favicon.ico HTTP/1.1" 200 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" 0.24ms
